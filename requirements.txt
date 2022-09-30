@@ -1,0 +1,5 @@
+pip==22.2.2
+psycopg2-binary==2.9.3
+russian-names==0.1.2
+setuptools==65.3.0
+wheel==0.37.1
